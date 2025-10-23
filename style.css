@@ -345,7 +345,7 @@ h4:hover {
     display: none;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 768px) {
     
     header {
         padding-top: 20px;
@@ -573,3 +573,4 @@ h4:hover {
         margin-bottom: 2rem;
     }
 }
+
